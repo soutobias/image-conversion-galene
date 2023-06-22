@@ -1,0 +1,15 @@
+data/
+*.geojson
+*.nc
+*.ipynb_checkpoints
+.env
+__pycache__
+.env
+.tif
+.tiff
+.png
+.nc
+.parquet
+.json
+.geojson
+output/
